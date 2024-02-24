@@ -1,4 +1,4 @@
-# TUTORIAL 1 ADPRO
+# TUTORIAL 1 ADPRO (Coding Standards: Clean Code & Testing)
 #### Daffa Mohamad Fathoni (2206824161)
 #### Advanced Programming B / GEN
 
